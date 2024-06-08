@@ -22,7 +22,7 @@
                     @csrf
                     <div class="input-group mb-4">
                         <input type="text" class="form-control" id="username" name="username"
-                            placeholder="Enter your username">
+                            placeholder="username">
                     </div>
                     <div class="input-group mb-3">
                         <input name="password" type="password" value="" class="form-control" id="password"

@@ -1,4 +1,4 @@
-# Please Read First Before Running!!!
+# PHP_Laravel_Ngebengkel
 
 This is a Laravel project for repair shop "Ngebengkel".
 
